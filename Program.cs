@@ -94,6 +94,9 @@ namespace ConsoleApp1
             Laggage_info info_13 = new("Timofey Yanovych", 11, 99.9);
             Laggage_info info_14 = new("Valentina Shinkarenko", 5, 74.3);
             Laggage_info info_15 = new("Alla Ponomarenko", 15, 12.3);
+            Laggage_info info_16 = new("Nina Ponomarchuk", 2, 122.4);
+            Laggage_info info_17 = new("Kira Kramarenko", 25, 30);
+            Laggage_info info_18 = new("Vera Sereda", 9, 51.7);
 
             info.Print();
 
