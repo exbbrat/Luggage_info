@@ -98,6 +98,10 @@ namespace ConsoleApp1
             Laggage_info info_17 = new("Kira Kramarenko", 25, 30);
             Laggage_info info_18 = new("Vera Sereda", 9, 51.7);
 
+            Laggage_info info_19 = new("Evgeniy Korg", 1, 32);
+            Laggage_info info_20 = new("Oleg Towers", 2, 34.5);
+
+
             info.Print();
 
             Console.WriteLine("It's end !");
