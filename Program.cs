@@ -80,15 +80,21 @@ namespace ConsoleApp1
             Laggage_info info_4 = new("Ivan Durnev", 1, 34);
             Laggage_info info_5 = new("Hrystyna Dnova", 2, 21.08);
             Laggage_info info_6 = new("Alexey Ivleev", 3, 120.2);
-            Laggage_info info_7 = new("Dina Saeva", 15, 45.5);
-            Laggage_info info_8 = new("Arina Zelensky", 10, 88.09);
-            Laggage_info info_9 = new("Ivan Holoborodko", 1, 43);
+            Laggage_info info_7 = new("Dina Saeva", 15, 45);
+            Laggage_info info_8 = new("Arina Zelensky", 15, 43);
+            Laggage_info info_9 = new("Ivan Holoborodko", 1, 42);
             Laggage_info info_10 = new("Anastasya Sycheva", 6, 53.2);
-            
-            double[] Array = { 3, 2, 1, 7, 8, 3 };
 
-            Laggage_info info_11 = new("Anastasya Sycheva", 6, Array);
-            
+            //double[] Array = { 3, 2, 1, 7, 8, 3 };
+
+            //Laggage_info info_11 = new("Anastasya Sycheva", 6, Array);
+
+            Laggage_info info_11 = new("Vitaliy Pavlyuk", 7, 101.1);
+            Laggage_info info_12 = new("Raisa Sergienko", 4, 19.44);
+            Laggage_info info_13 = new("Timofey Yanovych", 11, 99.9);
+            Laggage_info info_14 = new("Valentina Shinkarenko", 5, 74.3);
+            Laggage_info info_15 = new("Alla Ponomarenko", 15, 12.3);
+
             info.Print();
 
             Console.WriteLine("It's end !");
